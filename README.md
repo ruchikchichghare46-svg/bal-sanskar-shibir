@@ -30,4 +30,11 @@ return ( <div className="min-h-screen bg-orange-50 flex items-center justify-cen
   </div>
 </div>
 
-); }
+)h
+isme marathi mai step by step
+resistor karne wali ke information
+1. name
+2. age
+3. gender male and female
+4. phone number
+5. address
